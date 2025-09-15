@@ -11004,7 +11004,7 @@ header.masthead h1, header.masthead .h1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
-} */
+} 
 
 .container {
   display: grid;
@@ -11018,4 +11018,4 @@ header.masthead h1, header.masthead .h1 {
   padding: 10px;
   font-size: 30px;
   text-align: center;
-}
+} */
