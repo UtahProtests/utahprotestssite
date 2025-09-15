@@ -11005,3 +11005,17 @@ header.masthead h1, header.masthead .h1 {
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
 } */
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: dodgerblue;
+  padding: 10px;
+}
+.container > div {
+  background-color: dodgerblue;
+  border: 1px dodgerblue;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
